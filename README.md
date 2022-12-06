@@ -1,1 +1,1 @@
-# etsy-scraper
+# Etsy Scraper

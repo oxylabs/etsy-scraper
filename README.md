@@ -8,7 +8,7 @@ You can get Etsy results by providing your own URLs to our service. We can retur
 
 #### Python code example
 
-The example below illustrates how you can get a parsed Walmart product page result.
+The example below illustrates how you can get a parsed Etsy product page result.
 
 ```python
 import requests

@@ -102,3 +102,5 @@ Find code examples for other programming languages [**here**](https://github.com
 ```
 
 With our Etsy Scraper, you can effortlessly extract public data from any Etsy web page. Collect the required product information, such as price, reviews, or descriptions, to analyze the market and stay ahead of your competitors. If you have any questions, contact our support team via live chat or email us at hello@oxylabs.io.
+
+Also, check this tutorial on [pypi](https://pypi.org/project/etsy-scraper-api/)

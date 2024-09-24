@@ -21,7 +21,7 @@ from pprint import pprint
 
 # Structure payload.
 payload = {
-    'source': 'universal_ecommerce',
+    'source': 'universal',
     'url': 'https://www.etsy.com/listing/524233279/tiny-silver-forget-me-not-earrings',
     'geo_location': 'United States',
     'parse': True,

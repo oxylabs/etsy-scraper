@@ -3,7 +3,7 @@
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.com/invite/Pds3gBmKMH)
 
 Oxylabs’[ Etsy Scraper](https://oxy.yt/Vafh) is a data gathering solution allowing you to extract real-time information from an Etsy website effortlessly. This brief guide explains how an Etsy Scraper works and provides code examples to understand better how you can use it hassle-free.
 

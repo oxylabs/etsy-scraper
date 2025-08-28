@@ -9,7 +9,7 @@ Oxylabs’[ Etsy Scraper](https://oxy.yt/Vafh) is a data gathering solution allo
 
 ### How it works
 
-You can get Etsy results by providing your own URLs to our service. We can return the HTML for any Etsy page you like. Additionally, we can deliver **structured (parsed) output for Etsy product pages**.
+You can get Etsy results by providing your own URLs to our service. We can return the HTML for any Etsy page you like. Additionally, we can deliver structured (parsed) JSON output or Markdown format results for Etsy product pages.
 
 #### Python code example
 
